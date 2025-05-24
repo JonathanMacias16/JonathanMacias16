@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Jonathan Macías 👨‍💻
+# 👋 ¡Hola! Soy Jonathan Macias 👨‍💻
 
 Soy un desarrollador Full Stack apasionado por crear soluciones digitales funcionales y atractivas. Tengo experiencia construyendo **sitios web responsivos** y **aplicaciones móviles** utilizando tecnologías modernas como **Next.js**, **React**, **React Native**, **Framer Motion** y **Tailwind CSS**.
 
