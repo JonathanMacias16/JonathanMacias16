@@ -29,6 +29,9 @@ Soy un desarrollador Full Stack apasionado por crear soluciones digitales funcio
 ![WebStorm](https://img.shields.io/badge/WebStorm-000?style=flat-square&logo=webstorm&logoColor=white)
 
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JonathanMacias16&theme=microsoft-dark&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+
 
 ---
 
